@@ -1,1 +1,2 @@
-:heart:Learn Github
+* :heart:Learn Github
+* :smile:Live Life
